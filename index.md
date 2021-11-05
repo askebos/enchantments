@@ -12,7 +12,7 @@ Our invited expert speakers set the key readings that are discussed at the round
 #### Enchantment in theology and in scholarship on magic - December 2021
 
 ##### Speakers
-TBC
+[Professor Owen Davies](https://researchprofiles.herts.ac.uk/portal/en/persons/owen-davies(f0d6f1f0-37f4-4107-bb4c-91e2d36fab2e).html), University of Hertfordshire
 
 ##### Readings
 TBC
