@@ -64,4 +64,4 @@ TBC
 TBC 
 
 ## Contact
-TBC
+Do you have questions or suggestions? Get in touch with either Astrid ([@askebos](https://twitter.com/askebos)) or Anat ([arosenberg@idc.ac.il](mailto:arosenberg@idc.ac.il).
