@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+# Enchantments in the History of Capitalism
 
-You can use the [editor on GitHub](https://github.com/askebos/enchantments/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We're a network of scholars who seek to develop enchantment as an organizing theme in historical studies of capitalism. We hope to provide a platform for those interested in the historical role of enchantment as a tool, structure, or foundation for the organisation and the development of modern markets, economic institutions, and economic relationships. We focus primarily on the United Kingdom but also welcome comparative and wider transnational perspectives. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Everyone is welcome.
 
-### Markdown
+## Events
+At the moment, our activities are focused on running a series of roundtables to converge discussion around a set of leading texts that represent existing conceptual and historical scholarship on enchantment in modernity, from the fields of theology, anthropology, the history of science, literature and art, philosophy, marketing and business.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Our invited expert speakers set the key readings that are discussed at the roundtable. Meeting notes will be uploaded within two weeks of the event.
 
-```markdown
-Syntax highlighted code block
+### Roundtables
+**Enchantment in theology and in scholarship on magic** - December 2021
+*Speakers* TBC
+*Readings* TBC
+*Meeting notes* TBC
 
-# Header 1
-## Header 2
-### Header 3
+**Enchantment in the history of science, literature, and art** - February 2022
+*Speakers* TBC
+*Readings* TBC
+*Meeting notes* TBC
 
-- Bulleted
-- List
+**Enchantment in contemporary scholarship on economic life** - April 2022
+*Speakers* TBC
+*Readings* TBC
+*Meeting notes* TBC
 
-1. Numbered
-2. List
+**Revisiting the archive through the lens of economic enchantments** - June 2022
+*Speakers* TBC
+*Readings* TBC
+*Meeting notes* TBC
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Steering Committee
+TBC 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/askebos/enchantments/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
+TBC
