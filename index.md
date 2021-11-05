@@ -10,25 +10,55 @@ At the moment, our activities are focused on running a series of roundtables to 
 Our invited expert speakers set the key readings that are discussed at the roundtable. Meeting notes will be uploaded within two weeks of the event.
 
 ### Roundtables
-**Enchantment in theology and in scholarship on magic** - December 2021
-*Speakers* TBC
-*Readings* TBC
-*Meeting notes* TBC
 
-**Enchantment in the history of science, literature, and art** - February 2022
-*Speakers* TBC
-*Readings* TBC
-*Meeting notes* TBC
+#### Enchantment in theology and in scholarship on magic - December 2021
 
-**Enchantment in contemporary scholarship on economic life** - April 2022
-*Speakers* TBC
-*Readings* TBC
-*Meeting notes* TBC
+##### Speakers
+TBC
 
-**Revisiting the archive through the lens of economic enchantments** - June 2022
-*Speakers* TBC
-*Readings* TBC
-*Meeting notes* TBC
+##### Readings
+TBC
+
+##### Meeting notes
+TBC
+
+
+#### Enchantment in the history of science, literature, and art - February 2022
+
+##### Speakers
+TBC
+
+##### Readings
+TBC
+
+##### Meeting notes
+TBC
+
+
+
+#### Enchantment in contemporary scholarship on economic life - April 2022
+
+##### Speakers
+TBC
+
+##### Readings
+TBC
+
+##### Meeting notes
+TBC
+
+
+#### Revisiting the archive through the lens of economic enchantments - June 2022
+
+##### Speakers
+TBC
+
+##### Readings
+TBC
+
+##### Meeting notes
+TBC
+
 
 
 ## Steering Committee
