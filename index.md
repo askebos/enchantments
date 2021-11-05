@@ -1,5 +1,3 @@
-# Enchantment in the History of Capitalism
-
 We're a network of scholars who seek to develop enchantment as an organizing theme in historical studies of capitalism. We hope to provide a platform for those interested in the historical role of enchantment as a tool, structure, or foundation for the organisation and the development of modern markets, economic institutions, and economic relationships. We focus primarily on the United Kingdom but also welcome comparative and wider transnational perspectives. 
 
 Everyone is welcome.
