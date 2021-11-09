@@ -9,7 +9,7 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 ### Roundtables
 
-#### Enchantment in theology and in scholarship on magic - December 2021
+#### Enchantment in theology and in scholarship on magic - February 2022
 This event will be held on Zoom/Teams - please register here (link TBC)
 
 ##### Speakers
@@ -22,7 +22,7 @@ TBC
 TBC
 
 
-#### Enchantment in the history of science, literature, and art - February 2022
+#### Enchantment in the history of science, literature, and art - March 2022
 
 ##### Speakers
 TBC
@@ -47,7 +47,7 @@ TBC
 TBC
 
 
-#### Revisiting the archive through the lens of economic enchantments - June 2022
+#### Revisiting the archive through the lens of economic enchantments - May/June 2022
 
 ##### Speakers
 TBC
