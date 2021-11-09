@@ -7,7 +7,7 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 ### Roundtables
 
-#### Enchantment in theology and in scholarship on magic - 24 February 2022 at 
+#### Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00
 This event will be held at **King's College London** and on **Teams** - please register here to attend (link TBC)
 
 ##### Speakers
