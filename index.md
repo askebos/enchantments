@@ -9,8 +9,8 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 ### Roundtables
 
-#### Enchantment in theology and in scholarship on magic - February 2022
-This event will be held on Zoom/Teams - please register here (link TBC)
+#### Enchantment in theology and in scholarship on magic - 24 February 2022 at 
+This event will be held at **King's College London** and on **Teams** - please register here to attend (link TBC)
 
 ##### Speakers
 [Professor Owen Davies](https://researchprofiles.herts.ac.uk/portal/en/persons/owen-davies(f0d6f1f0-37f4-4107-bb4c-91e2d36fab2e).html), University of Hertfordshire
