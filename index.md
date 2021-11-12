@@ -45,7 +45,19 @@ TBC
 TBC
 
 
-#### Revisiting the archive through the lens of economic enchantments - May/June 2022
+#### (Tentative) Enchantment in cognitive cultural theory & cultural evolution - May 2022
+
+##### Speakers
+TBC
+
+##### Readings
+TBC
+
+##### Meeting notes
+TBC
+
+
+#### Revisiting the archive through the lens of economic enchantments - June 2022
 
 ##### Speakers
 TBC
