@@ -7,7 +7,7 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 ### Roundtables
 
-#### Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00
+#### Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00 GMT
 This event will be held on **Teams** - please register here to attend (link TBC)
 
 ##### Speakers
@@ -22,9 +22,11 @@ TBC
 TBC
 
 
-#### Enchantment in the history of science, literature, and art - 25 March 2022
+#### Enchantment in the history of science, literature, and art - 25 March 2022, 15:00 - 17:30 GMT
 
 ##### Speakers
+[Professor David Morgan](https://scholars.duke.edu/person/david.morgan), Duke University
+
 TBC
 
 ##### Readings
@@ -35,7 +37,7 @@ TBC
 
 
 
-#### Enchantment in contemporary scholarship on economic life - April 2022
+#### Enchantment in contemporary scholarship on economic life - 22 April 2022
 
 ##### Speakers
 TBC
@@ -65,7 +67,7 @@ TBC
 **Astrid Van den Bossche** is Lecturer in Digital Marketing and Communications at the Department of Digital Humanities, King's College London. She is particularly interested in scepticism and humour as forms of engagement with promotional culture, and the application of computational methods in historical studies. 
 
 
-## Network Members
+## Fellow travelers
 **Rachel Bowlby** FBA, Professor of Comparative Literature at University College London, is the author of several books on consumer culture, including *Just Looking* (on nineteenth-century department stores); *Shopping with Freud*; *Carried Away: The Invention of Modern Shopping* (on supermarkets and self-service); *Talking Walking*; and most recently, *Back to the Shops*, forthcoming in 2021. 
 
 **Richard Hornsey** is Lecturer in Modern British History at the University of Nottingham. He is a cultural historian of nineteenth and twentieth-century urban Britain. He is the author of *The Spic and the Architect: Unruly Life in Postwar London* (2010). He is currently writing a book entitled *The Wonderland of Common Things: England in the Age of Mass Production*. 
