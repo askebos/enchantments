@@ -61,7 +61,7 @@ TBC
 TBC
 
 
-## Network Coordinators
+## Network coordinators
 **Anat Rosenberg** is a Senior Lecturer in Law at Reichman University (IDC Herzliya), Israel. She is a cultural legal historian, and author of Liberalizing Contracts: Nineteenth Century Promises Through Literature, Law and History (2018). Her current work examines the role of law in preserving understandings of the modern British economy as disenchanted amid rampant enchantment encouraged by mass advertising. 
 
 **Astrid Van den Bossche** is Lecturer in Digital Marketing and Communications at the Department of Digital Humanities, King's College London. She is particularly interested in scepticism and humour as forms of engagement with promotional culture, and the application of computational methods in historical studies. 
