@@ -37,7 +37,7 @@ TBC
 
 
 
-#### Enchantment in contemporary scholarship on economic life - 22 April 2022
+#### Enchantment in contemporary scholarship on economic life - 29 April 2022
 
 ##### Speakers
 TBC
