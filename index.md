@@ -27,7 +27,7 @@ TBC
 ##### Speakers
 [Professor David Morgan](https://scholars.duke.edu/person/david.morgan), Duke University
 
-[Professor Carrie Tirado Bramen](https://www.buffalo.edu/cas/english/faculty/faculty_directory.host.html/content/shared/cas/english/profiles/bramen-carrie-tirado.html)
+[Professor Carrie Tirado Bramen](https://www.buffalo.edu/cas/english/faculty/faculty_directory.host.html/content/shared/cas/english/profiles/bramen-carrie-tirado.html), University at Buffalo
 
 ##### Readings
 TBC
