@@ -47,7 +47,7 @@ TBC
 #### Enchantment in contemporary scholarship on economic life - 29 April 2022
 
 ##### Speakers
-TBC
+[Professor Jean Comaroff](https://anthropology.fas.harvard.edu/people/jean-comaroff), Harvard University
 
 ##### Readings
 TBC
