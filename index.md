@@ -48,7 +48,8 @@ TBC
 
 ##### Speakers
 [Professor Jean Comaroff](https://anthropology.fas.harvard.edu/people/jean-comaroff), Harvard University
-[Professor Jens Beckert](https://www.mpifg.de/people/jb1/index_en.asp)
+
+[Professor Jens Beckert](https://www.mpifg.de/people/jb1/index_en.asp), Max Planck Institute
 
 ##### Readings
 TBC
