@@ -58,7 +58,7 @@ TBC
 TBC
 
 
-#### Enchantment in technology and science - May 2022
+#### Enchantment in Science and Technology Studies - May 2022
 
 ##### Speakers
 TBC
