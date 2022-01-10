@@ -15,7 +15,7 @@ Our invited expert speakers set the key readings that are discussed at the round
 ### Roundtables
 
 #### Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00 GMT
-This event will be held on **Teams** - please register here to attend (link TBC)
+This event will be held on **Zoom** - please register on [Eventbrite to attend](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-1-on-magic-theology-tickets-205667867127)
 
 ##### Speakers
 [Professor Owen Davies](https://researchprofiles.herts.ac.uk/portal/en/persons/owen-davies(f0d6f1f0-37f4-4107-bb4c-91e2d36fab2e).html), University of Hertfordshire
@@ -30,6 +30,7 @@ TBC
 
 
 #### Enchantment in the history of science, literature, and art - 25 March 2022, 15:00 - 17:30 GMT
+This event will be held on **Zoom** - please register on [Eventbrite to attend](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-2-tickets-243101793007)
 
 ##### Speakers
 [Professor David Morgan](https://scholars.duke.edu/person/david.morgan), Duke University
@@ -44,6 +45,7 @@ TBC
 
 
 #### Enchantment in contemporary scholarship on economic life - 29 April 2022, 15:30 - 18:00 GMT
+This event will be held on **Zoom** - link TBC
 
 ##### Speakers
 [Professor Jean Comaroff](https://anthropology.fas.harvard.edu/people/jean-comaroff), Harvard University
