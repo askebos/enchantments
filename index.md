@@ -58,7 +58,7 @@ TBC
 TBC
 
 
-#### Enchantment in cognitive cultural theory & cultural evolution - May 2022
+#### Enchantment in technology and science - May 2022
 
 ##### Speakers
 TBC
