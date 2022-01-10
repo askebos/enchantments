@@ -43,25 +43,12 @@ TBC
 TBC
 
 
-
-#### Enchantment in contemporary scholarship on economic life - 29 April 2022
+#### Enchantment in contemporary scholarship on economic life - 29 April 2022, 15:30 - 18:00 GMT
 
 ##### Speakers
 [Professor Jean Comaroff](https://anthropology.fas.harvard.edu/people/jean-comaroff), Harvard University
 
 [Professor Jens Beckert](https://www.mpifg.de/people/jb1/index_en.asp), Max Planck Institute
-
-##### Readings
-TBC
-
-##### Meeting notes
-TBC
-
-
-#### Enchantment in Science and Technology Studies - May 2022
-
-##### Speakers
-TBC
 
 ##### Readings
 TBC
