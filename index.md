@@ -23,9 +23,11 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 [Professor Jason Ānanda Josephson Storm](https://religion.williams.edu/faculty/jason-josephson/), Williams College
 
 ##### Readings
-- Davies, Owen. [‘Cunning-Folk in the Medical Market-Place during the Nineteenth Century’](https://doi.org/10.1017/S0025727300064711). Medical History 43, no. 1 (1999): 55–73.
+- Owen Davies, [‘Cunning-Folk in the Medical Market-Place during the Nineteenth Century’](https://doi.org/10.1017/S0025727300064711). Medical History 43, no. 1 (1999): 55–73.
 
-- Jason Ānanda Josephson Storm, “Max Weber and the Rationalization of Magic,” Yelle and Trein edt., Narratives of Disenchantment and Secularization, Bloomsbury, 2020, 31-50. 
+- Owen Davies, "Chapter 7: Pulp magic" in *Grimoires: A History of Magic Books* (Oxford, 2009).
+
+- Jason Ānanda Josephson Storm, “Max Weber and the Rationalization of Magic,” Yelle and Trein edt., in *Narratives of Disenchantment and Secularization* (Bloomsbury, 2020), pp. 31-50. 
 
 - Jason Ānanda Josephson Storm, “The Stars are Down: Preliminary Remarks toward Theorizing Capitalism and ‘Enchantment'” Draft paper.
 
