@@ -23,7 +23,14 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 [Professor Jason Ānanda Josephson Storm](https://religion.williams.edu/faculty/jason-josephson/), Williams College
 
 ##### Readings
-TBC
+Owen Davies. [‘Cunning-Folk in the Medical Market-Place during the Nineteenth Century’](https://doi.org/10.1017/S0025727300064711). Medical History 43, no. 1 (January 1999): 55–73.
+
+Jason Ānanda Josephson Storm, “Max Weber and the Rationalization of Magic,” Yelle and Trein edt., Narratives of Disenchantment and Secularization, Bloomsbury, 2020, 31-50. (To be circulated on [registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-1-on-magic-theology-tickets-205667867127).)
+
+Jason Ānanda Josephson Storm, “The Stars are Down: Preliminary Remarks toward Theorizing Capitalism and ‘Enchantment'” Draft paper. (To be circulated on [registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-1-on-magic-theology-tickets-205667867127).)
+
+(Please contact [Astrid](https://twitter.com/askebos) or [Anat](mailto:arosenberg@idc.ac.il) if you have difficulties accessing the readings.)
+
 
 ##### Meeting notes
 TBC
