@@ -33,8 +33,6 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 
 (Note that copies of the readings are circulated upon [registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-1-on-magic-theology-tickets-205667867127).)
 
-##### Meeting notes
-TBC
 
 
 #### Enchantment in the history of science, literature, and art - 25 March 2022, 15:00 - 17:30 GMT
