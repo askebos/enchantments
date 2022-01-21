@@ -45,11 +45,6 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 
 [Professor Carrie Tirado Bramen](https://www.buffalo.edu/cas/english/faculty/faculty_directory.host.html/content/shared/cas/english/profiles/bramen-carrie-tirado.html), University at Buffalo
 
-##### Readings
-TBC
-
-##### Meeting notes
-TBC
 
 
 #### Enchantment in contemporary scholarship on economic life - 29 April 2022, 15:30 - 18:00 GMT
@@ -60,11 +55,6 @@ This event will be held on **Zoom** - link TBC
 
 [Professor Jens Beckert](https://www.mpifg.de/people/jb1/index_en.asp), Max Planck Institute
 
-##### Readings
-TBC
-
-##### Meeting notes
-TBC
 
 
 ## Network coordinators
