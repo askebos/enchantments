@@ -14,7 +14,8 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 ### Roundtables
 
-#### Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00 GMT
+
+#### ✨ Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00 GMT
 This event will be held on **Zoom** - please register on [Eventbrite to attend](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-1-on-magic-theology-tickets-205667867127)
 
 ##### Speakers
@@ -35,7 +36,7 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 
 
 
-#### Enchantment in the history of science, literature, and art - 25 March 2022, 15:00 - 17:30 GMT
+#### ✨ Enchantment in the history of science, literature, and art - 25 March 2022, 15:00 - 17:30 GMT
 This event will be held on **Zoom** - please register on [Eventbrite to attend](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-2-tickets-243101793007)
 
 ##### Speakers
@@ -45,7 +46,7 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 
 
 
-#### Enchantment in contemporary scholarship on economic life - 29 April 2022, 15:30 - 18:00 GMT
+#### ✨ Enchantment in contemporary scholarship on economic life - 29 April 2022, 15:30 - 18:00 GMT
 This event will be held on **Zoom** - link TBC
 
 ##### Speakers
