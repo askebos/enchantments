@@ -46,7 +46,7 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 
 
 
-#### ✨ Enchantment in contemporary scholarship on economic life - 29 April 2022, 15:30 - 18:00 GMT
+#### ✨ Enchantment in contemporary scholarship on economic life - To be announced soon
 This event will be held on **Zoom** - link TBC
 
 ##### Speakers
@@ -54,6 +54,7 @@ This event will be held on **Zoom** - link TBC
 
 [Professor Jens Beckert](https://www.mpifg.de/people/jb1/index_en.asp), Max Planck Institute
 
+[Professor Robert Kozinets](https://annenberg.usc.edu/faculty/robert-kozinets), University of Southern California
 
 
 ## Network coordinators
