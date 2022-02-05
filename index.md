@@ -46,7 +46,7 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 
 <p align=center><br>✨✨✨</p>
 
-#### Enchantment in contemporary scholarship on economic life - To be announced soon
+#### Enchantment in contemporary scholarship on economic life - 5 May 2022, 16:30 - 19:00 GMT
 This event will be held on **Zoom** - link TBC
 
 ##### Speakers
