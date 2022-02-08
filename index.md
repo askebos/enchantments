@@ -47,7 +47,7 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 <p align=center><br>✨✨✨</p>
 
 #### Enchantment in contemporary scholarship on economic life - 5 May 2022, 16:30 - 19:00 GMT
-This event will be held on **Zoom** - link TBC
+This event will be held on **Zoom** - please register on [Eventbrite to attend](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-3-tickets-243104290477)
 
 ##### Speakers
 [Professor Jean Comaroff](https://anthropology.fas.harvard.edu/people/jean-comaroff), Harvard University
