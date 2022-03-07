@@ -49,6 +49,8 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 
 - Paul Crosthwaite, Peter Knight, and Nicky Marsh, ["The Economic Humanities and the History of Financial Advice,"](https://academic.oup.com/alh/article/31/4/661/5555876) *American Literary History*, vol. 31, no. 4, pp. 661–686.
 
+(Note: readings are ciruclated upon [registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-2-tickets-243101793007))
+
 <p align=center><br>✨✨✨</p>
 
 #### Enchantment in contemporary scholarship on economic life - 5 May 2022, 16:30 - 19:00 GMT
