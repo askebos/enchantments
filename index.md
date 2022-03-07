@@ -16,7 +16,6 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 
 #### Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00 GMT
-This event will be held on **Zoom** - please register on [Eventbrite to attend](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-1-on-magic-theology-tickets-205667867127)
 
 ##### Speakers
 [Professor Owen Davies](https://researchprofiles.herts.ac.uk/portal/en/persons/owen-davies(f0d6f1f0-37f4-4107-bb4c-91e2d36fab2e).html), University of Hertfordshire
@@ -31,8 +30,6 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 - Jason Ānanda Josephson Storm, “Max Weber and the Rationalization of Magic,” Yelle and Trein eds., in *Narratives of Disenchantment and Secularization* (Bloomsbury, 2020), pp. 31-50. 
 
 - Jason Ānanda Josephson Storm, “The Stars are Down: Preliminary Remarks toward Theorizing Capitalism and ‘Enchantment'” Draft paper.
-
-(Note that copies of the readings are circulated upon [registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-1-on-magic-theology-tickets-205667867127).)
 
 <p align=center><br>✨✨✨</p>
 
@@ -52,8 +49,6 @@ This event will be held on **Zoom** - please register on [Eventbrite to attend](
 - Nicholas Campion, "Introduction: Origins and Background" in [*A History of Western Astrology Volume II: The Medieval and Modern Worlds*](https://www.bloomsbury.com/uk/history-of-western-astrology-volume-ii-9781441181299/) (Bloomsbury, 2009)
 
 - Paul Crosthwaite, Peter Knight, and Nicky Marsh, ["The Economic Humanities and the History of Financial Advice,"](https://academic.oup.com/alh/article/31/4/661/5555876) *American Literary History*, vol. 31, no. 4, pp. 661–686.
-
-
 
 <p align=center><br>✨✨✨</p>
 
