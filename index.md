@@ -14,7 +14,6 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 ### Roundtables
 
-
 #### Enchantment in theology and scholarship on magic - 24 February 2022, 14:30 - 17:00 GMT
 
 ##### Speakers
