@@ -32,7 +32,7 @@ Our invited expert speakers set the key readings that are discussed at the round
 
 <p align=center><br>✨✨✨</p>
 
-####  Enchantment in the history of science, literature, and art - 25 March 2022, 15:00 - 17:30 GMT
+####  Enchantment in the history of science, literature, and art - 25 March 2022, 15:00 - 17:00 GMT
 This event will be held on **Zoom** - please register on [Eventbrite to attend](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-roundtable-2-tickets-243101793007)
 
 ##### Speakers
