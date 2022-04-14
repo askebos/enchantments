@@ -17,19 +17,21 @@ a {
 
 .btn {
   display: inline-block;
-  margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  margin-bottom: 0.5rem;
+  color: #112331;
+  font-size: 1.1em;
+  letter-spacing: 0.05em;
+  background-color: #a1babb;
+  border-color: rgba(255, 255, 255, 0.05);
   border-style: solid;
-  border-width: 1px;
-  border-radius: 0.3rem;
+  border-width: 2px;
+  border-radius: 0.2rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
   .btn:hover {
     color: rgba(255, 255, 255, 0.8);
     text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3); }
+    background-color: rgba(255, 255, 255, 0.4);
+    border-color: rgba(255, 255, 255, 0.07); }
   .btn + .btn {
     margin-left: 1rem; }
   @media screen and (min-width: 64em) {
@@ -48,15 +50,15 @@ a {
   text-align: center;
   background-color: #159957;
   background-image: linear-gradient(120deg, #155799, #159957);
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/askebos/enchantments/blob/a8f2e2fab4ed104f8336a5d983e715c137525386/assets/pexels-anjana-c-674010.jpg?raw=true");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://github.com/askebos/enchantments/blob/a8f2e2fab4ed104f8336a5d983e715c137525386/assets/pexels-anjana-c-674010.jpg?raw=true");
   background-size: cover;
   box-shadow: inset 0em -5px rgba(255, 255, 255, 0.4); }
   @media screen and (min-width: 64em) {
     .page-header {
-      padding: 5rem 6rem; } }
+      padding: 5rem 5rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .page-header {
-      padding: 3rem 4rem; } }
+      padding: 3rem 3rem; } }
   @media screen and (max-width: 42em) {
     .page-header {
       padding: 2rem 1rem; } }
@@ -219,13 +221,13 @@ a {
   border-top: solid 1px #eff0f1; }
   @media screen and (min-width: 64em) {
     .site-footer {
-      font-size: 1rem; } }
+      font-size: 0.9rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .site-footer {
-      font-size: 1rem; } }
+      font-size: 0.9rem; } }
   @media screen and (max-width: 42em) {
     .site-footer {
-      font-size: 0.9rem; } }
+      font-size: 0.8rem; } }
 .site-footer-owner {
   display: block;
   font-weight: bold; }
@@ -234,14 +236,53 @@ a {
   color: #819198; }
 
 .pointing {
-  background-image: url(../images/kindpng_350.png);
+  background-image: url("../images/manicule.png");
   background-size: 4em;
   background-position: left center;
   background-repeat: no-repeat;
   padding-left: 4.5em;
   margin-top: 1.5em;
-  margin-bottom: 1.5em; }
+  margin-bottom: 1.5em;
+  position: relative;
+  min-height: 50px; }
+
+h1.project-name {
+  opacity: 0.7; }
 
 h1 {
   opacity: 0.4;
   text-transform: capitalize; }
+
+.events li {
+  display: block;
+  background-color: rgba(162, 192, 191, 0.2);
+  border-radius: 0.2em;
+  margin: 1em;
+  margin-left: 0;
+  padding: 0.3em;
+  padding-left: 0.6em; }
+
+.events span.emphasis {
+  color: #191a49;
+  margin-right: 0.5em; }
+
+nav {
+  padding-top: 1em; }
+
+.readable {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  line-height: 2em; }
+
+.author {
+  color: grey;
+  font-style: italic; }
+
+figure {
+  width: 65%;
+  margin: auto; }
+
+figcaption {
+  font-size: 0.8rem;
+  line-height: normal;
+  width: 100%; }
