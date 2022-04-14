@@ -1,0 +1,78 @@
+baseURL = 'https://askebos.github.io/econchants2/'
+languageCode = 'en-us'
+title = 'Enchantment in the History of Capitalism'
+theme = "cayman-hugo-theme"
+publishDir = "docs"
+
+[taxonomies]
+  tag = "tags"
+  event = "events"
+  type = "type"
+
+# ------
+# Markup
+# ------
+[markup]
+  # Set startLevel = 1 to support # title (<h1>title</h1>) otherwise table of content is blank/empty
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+
+    [markup.goldmark]
+      [markup.goldmark.renderer]
+        unsafe = true
+
+  # ------------
+  # Sidebar menu
+  # For FA icons, search https://fontawesome.com/v5/search
+  # ------------
+[menu]
+  [[menu.nav]]
+    weight = 1
+    identifier = "home"
+    name = "Home"
+    url = "/"
+
+  [[menu.nav]]
+    weight = 2
+    identifier = "roundtables"
+    name = "Roundtables"
+    url = "/events"
+
+    [[menu.nav]]
+      weight = 3
+      identifier = "resources"
+      name = "Resources"
+      url = "/resources"
+
+  [[menu.nav]]
+    weight = 4
+    identifier = "people"
+    name = "People"
+    url = "/people"
+
+
+    [[menu.nav]]
+      weight = 5
+      identifier = "contact"
+      name = "Contact"
+      url = "/contact"
+
+
+# -------------
+# Customization
+# -------------
+[params]
+        project_name = "Enchantment in the History of Capitalism"
+        project_tagline = "We're a network of scholars interested in enchantment in the history of capitalism. Join us!"
+        keywords = ["history", "capitalism", "enchantment"]
+        sidebarBehavior = 1
+        coverImage = "images/economic_enchantments.jpg"
+        imageGallery = true
+        hierarchicalCategories = true
+        clearReading = true
+
+        # Footer text, can be markdown
+        footer = "This website was made with [Hugo](https://gohugo.io/), is themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme), and is hosted by [GitHub](https://github.com/). Peacock feathers are by [Anjana C](https://www.pexels.com/photo/green-and-blue-peacock-feather-674010/)."
+        custom_css = ["css/style.css"]
