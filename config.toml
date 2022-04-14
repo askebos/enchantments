@@ -32,7 +32,7 @@ publishDir = "docs"
     weight = 1
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = ""
 
   [[menu.nav]]
     weight = 2
