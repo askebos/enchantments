@@ -32,32 +32,32 @@ publishDir = "docs"
     weight = 1
     identifier = "home"
     name = "Home"
-    url = ""
+    url = "/"
 
   [[menu.nav]]
     weight = 2
     identifier = "roundtables"
     name = "Roundtables"
-    url = "events"
+    url = "/events"
 
     [[menu.nav]]
       weight = 3
       identifier = "resources"
       name = "Resources"
-      url = "resources"
+      url = "/resources"
 
   [[menu.nav]]
     weight = 4
     identifier = "people"
     name = "People"
-    url = "people"
+    url = "/people"
 
 
     [[menu.nav]]
       weight = 5
       identifier = "contact"
       name = "Contact"
-      url = "contact"
+      url = "/contact"
 
 
 # -------------
