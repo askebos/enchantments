@@ -6,6 +6,7 @@
 
             <h3>Upcoming</h3>
             <ul class = "events">
+              <li>There are no upcoming events at the moment.</li>
             {{ range  where (where .Site.Pages.ByDate "Params.kind" "roundtable") "Params.date" "gt" now}}
               <li><a href="{{ .Params.link}}">{{ .Title}}</a> <br>
                 <span class="emphasis">{{.Date.Format $dateFormat}}</span>
