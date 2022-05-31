@@ -1,2 +1,2 @@
-# econchants2
+# economic enchantments
  
