@@ -3,7 +3,7 @@
   <h2>{{ .Title }}</h2>
   <div>
     {{ $dateFormat := $.Site.Params.dateFormat | default "2 January 2006" }}
-    By {{.Params.author}}
+    {{ .Date.Format $dateFormat }}
   </div>
   {{ $tags := slice }}
   {{ with .Params.tags }}
