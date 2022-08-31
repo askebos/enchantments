@@ -19,5 +19,5 @@
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   {{ partial "katex.html" . }}
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
-  <script defer data-domain="economic-enchantments.net" src="https://plausible.io/js/plausible.js"></script> 
+{{ partial "plausible_head.html" . }}
 </head>

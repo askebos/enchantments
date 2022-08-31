@@ -1,7 +1,7 @@
 baseURL = 'https://economic-enchantments.net/'
 languageCode = 'en-us'
 title = 'Enchantment in the History of Capitalism'
-theme = "cayman-hugo-theme"
+theme = ["cayman-hugo-theme", "plausible-hugo"]  # Add this theme to your already existing other themes
 publishDir = "docs"
 
 [taxonomies]
@@ -76,3 +76,10 @@ publishDir = "docs"
         # Footer text, can be markdown
         footer = "This website was made with [Hugo](https://gohugo.io/), is themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme), and is hosted by [GitHub](https://github.com/). Peacock feathers are by [Anjana C](https://www.pexels.com/photo/green-and-blue-peacock-feather-674010/)."
         custom_css = ["css/style.css"]
+
+# -------------
+# Analytics with Plausible
+# -------------
+[params.plausible]
+    enable = true  # Whether to enable plausible tracking
+    domain = "economic-enchantments.net"  # Plausible "domain" name/id in your dashboard
