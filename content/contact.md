@@ -23,7 +23,9 @@ You will find us on Twitter:
 
 Or send us a message:
 
-<form id = "contact" name="contact" method="POST" data-netlify="true" action="/thank-you">
+<i> This form has temporarily been disabled while we fix an issue.</i>
+
+<form disabled id = "contact" value="Economic Enchantments - Message from " name="contact" method="POST" data-netlify="true" action="/thank-you">
   <p>
     <label>Your Name</label> <input type="text" name="name" />
   </p>
