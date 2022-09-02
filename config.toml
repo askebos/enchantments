@@ -52,15 +52,8 @@ publishDir = "docs"
       name = "Resources"
       url = "https://economic-enchantments.net/resources"
 
-  [[menu.nav]]
-    weight = 5
-    identifier = "people"
-    name = "People"
-    url = "https://economic-enchantments.net/people"
-
-
     [[menu.nav]]
-      weight = 6
+      weight = 5
       identifier = "contact"
       name = "Contact"
       url = "https://economic-enchantments.net/contact"
