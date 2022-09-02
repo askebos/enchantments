@@ -3,11 +3,16 @@
 
 <h1>{{ .Title }}</h1>
 
-
-
-            <h3>Memos</h3>
+            <h3>Roundtable memos</h3>
             <ul>
             {{ range where .Site.Pages "Params.doc" "memo"}}
+              <li><a href="{{ .Permalink}}">{{ .Title}}</a> ({{.Date.Format $dateFormat}})</li>
+            {{ end }}
+            </ul>
+
+            <h3>Podcasts</h3>
+            <ul>
+            {{ range where .Site.Pages "Params.doc" "podcasts"}}
               <li><a href="{{ .Permalink}}">{{ .Title}}</a> ({{.Date.Format $dateFormat}})</li>
             {{ end }}
             </ul>

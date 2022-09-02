@@ -4,10 +4,7 @@ date: 2022-03-17T08:21:58Z
 comments:       false
 showMeta:       false
 showActions:    false
-#thumbnailImage: //example.com/image.jpg
 ---
-
-
 
 ## Network coordinators
 **[Anat Rosenberg](https://www.runi.ac.il/en/faculty/arosenberg/)** is a senior lecturer at the Harry Radzyner Law School, Reichman University, Israel. Her work concerns the cultural legal history of capitalism, liberalism and consumption in Britain, and methodologies of law and the humanities. She is author of *Liberalizing Contracts: Nineteenth Century Promises Through Literature, Law and History* (2018), and *The Rise of Mass Advertising: Law, Enchantment and the Cultural Boundaries of British Modernity* (forthcoming).

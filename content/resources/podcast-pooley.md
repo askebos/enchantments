@@ -1,17 +1,17 @@
 ---
-title: "Kristof Smeyers in conversation with Will Pooley"
+title: "A conversation with Will Pooley"
 date: 2022-06-28
-publishDate: 2022-08-30
-category: resources # for listing
+publishDate: 2022-09-30
 kind: podcast # for the heading
 layout: podcast # for the podcast page layout
+doc: podcasts # for listing on resources page
 comments: podcast-pooley
 author: "Kristof Smeyers"
 ---
 
 [Will Pooley](https://research-information.bris.ac.uk/en/persons/will-pooley) is a Senior Lecturer in Modern History at the University of Bristol.
 
-{{<audio src="resources/interviews/28.6.2022_Pooley_podcast.mp3" caption="">}}
+{{<audio src="resources/podcasts/28.6.2022_Pooley_podcast.mp3" caption="">}}
 
 ### Transcript
 
@@ -160,3 +160,6 @@ And I do think that enchantment is one of those things that works particularly w
 ##### 00:21:13 Kristof
 
 I think that's a really nice note to end on. Thank you very much, Will.
+
+{{% credits %}} This podcast was generously funded by the [Department of Digital Humanities, King's College London](https://www.kcl.ac.uk/ddh).
+<br>Musical intro is [Sleepwalking](beta.ccmixter.org/files/airtone/65416) by airtone. {{% /credits %}}

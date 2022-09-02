@@ -36,25 +36,31 @@ publishDir = "docs"
 
   [[menu.nav]]
     weight = 2
-    identifier = "roundtables"
-    name = "Roundtables"
-    url = "https://economic-enchantments.net/events"
+    identifier = "about"
+    name = "About"
+    url = "https://economic-enchantments.net/about"
 
     [[menu.nav]]
       weight = 3
+      identifier = "events"
+      name = "Events"
+      url = "https://economic-enchantments.net/events"
+
+    [[menu.nav]]
+      weight = 4
       identifier = "resources"
       name = "Resources"
       url = "https://economic-enchantments.net/resources"
 
   [[menu.nav]]
-    weight = 4
+    weight = 5
     identifier = "people"
     name = "People"
     url = "https://economic-enchantments.net/people"
 
 
     [[menu.nav]]
-      weight = 5
+      weight = 6
       identifier = "contact"
       name = "Contact"
       url = "https://economic-enchantments.net/contact"

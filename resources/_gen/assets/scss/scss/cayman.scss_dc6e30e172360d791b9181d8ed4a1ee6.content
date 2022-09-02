@@ -286,3 +286,40 @@ figcaption {
   font-size: 0.8rem;
   line-height: normal;
   width: 100%; }
+
+.credits {
+  color: grey;
+  font-style: italic;
+  margin-left: 3em;
+  margin-right: 3em;
+  font-size: 0.8em;
+  display: block; }
+
+.alert {
+  display: table;
+  position: relative;
+  background-color: rgba(162, 192, 191, 0.2);
+  border-radius: 15px;
+  margin-left: 4.5em;
+  margin-right: 4.5em;
+  margin-top: 1.5em;
+  margin-bottom: 1.5em; }
+
+.alert-icon {
+  display: table-cell;
+  vertical-align: middle;
+  width: 1em;
+  padding: 30px;
+  text-align: center;
+  font-size: 4em;
+  color: white;
+  text-shadow: 2px 1px 4px lightgrey; }
+
+.alert-body {
+  display: table-cell;
+  vertical-align: middle;
+  padding-right: 1em;
+  position: relative;
+  min-height: 50px;
+  font-size: 0.8em;
+  line-height: 2em; }
