@@ -469,3 +469,21 @@ figcaption{
       font-size:0.8em;
       line-height: 2em;
     }
+
+
+#contact input, textarea {
+  display: block;
+  width:30em;
+}
+
+#contact textarea {
+  display: block;
+  height:10em;
+}
+
+#contact label {
+  display: block;
+  margin-top: 1em;
+  font-style: italic;
+  opacity: 0.8em;
+}
