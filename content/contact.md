@@ -25,7 +25,8 @@ Or send us a message:
 
 <i> This form has temporarily been disabled while we fix an issue.</i>
 
-<form disabled id = "contact" value="Economic Enchantments - Message from " name="contact" method="POST" data-netlify="true" action="/thank-you">
+<form  id = "contact" value="Economic Enchantments - Message from " name="contact" method="POST" data-netlify="true" action="/thank-you">
+<fieldset disabled>
   <p>
     <label>Your Name</label> <input type="text" name="name" />
   </p>
@@ -39,4 +40,5 @@ Or send us a message:
   <p>
     <button type="submit">Send</button>
   </p>
+  </fieldset>
 </form>
