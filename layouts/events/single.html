@@ -3,7 +3,11 @@
   <h2>{{ .Title }}</h2>
   <div>
     {{ $dateFormat := $.Site.Params.dateFormat | default "2 January 2006" }}
-  This roundtable took place on {{ .Date.Format $dateFormat }}.
+
+    {{if eq .Params.kind "roundtable" }}
+        This roundtable took place on {{ .Date.Format $dateFormat }}.
+    {{ end }}
+
   </div>
   {{ $tags := slice }}
   {{ with .Params.tags }}
@@ -18,8 +22,10 @@
     </div>
   {{ end }}
   {{ .Content }}
-<hr>
 
+{{if isset .Params "comments" }}
+  <hr>
   {{ partial "partials/chat.html" . }}
+{{ end }}
 
 {{ end }}

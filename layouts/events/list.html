@@ -6,19 +6,24 @@
 
             <h3>Upcoming</h3>
             <ul class = "events">
-              <li>There are no upcoming events at the moment.</li>
-            {{ range  where (where .Site.Pages.ByDate "Params.kind" "roundtable") "Params.date" "gt" now}}
-              <li><a href="{{ .Params.link}}">{{ .Title}}</a> <br>
-                <span class="emphasis">{{.Date.Format $dateFormat}}</span>
-                {{.Params.summary}} More information and registration on <a href="{{ .Params.link}}">Eventbrite.</a></li>
-            {{ end }}
+
+              {{ range  where (where .Site.Pages.ByDate "Params.category" "events") "Params.date" "gt" now}}
+                <li><a href="{{ .Params.link}}">{{ .Title}}</a> <br>
+                    {{ if eq .Params.ongoing "yes"}}
+                        <span class="emphasis">Ongoing</span>
+                      {{else}}
+                          <span class="emphasis">{{.Date.Format $dateFormat}}</span>
+                      {{ end }}
+                  {{.Params.summary}}</li>
+              {{ end }}
+
             </ul>
 
                   <h3>Past</h3>
         <ul class = "events">
-        {{ range  where (where .Site.Pages.ByDate.Reverse "Params.kind" "roundtable") "Params.date" "<" now}}
+        {{ range  where (where .Site.Pages.ByDate.Reverse "Params.category" "events") "Params.date" "<" now}}
         <li><a href="{{ .Params.link}}">{{ .Title}}</a> <br> <span class="emphasis">{{.Date.Format $dateFormat}}</span>
-          {{.Params.summary}} Read our memo <a href="{{ .Params.link}}">here.</a></li>
+          {{.Params.summary}}</li>
         {{ end }}
 
 {{ end }}

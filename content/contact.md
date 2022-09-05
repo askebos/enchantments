@@ -17,16 +17,13 @@ Join our mailing list here: [ECONOMIC-ENCHANTMENTS@JISCMAIL.AC.UK](https://www.j
 Do you have questions, suggestions, or would you like to send in a proposal for a work-in-progress presentation?
 
 You will find us on Twitter:
-- Astrid: [@askebos](https://twitter.com/askebos)
-- Anat: [@anat_rosenberg](https://twitter.com/anat_rosenberg)
-- Kristof: [@kristof_smeyers](https://twitter.com/kristof_smeyers)
+- Anat Rosenberg: [@anat_rosenberg](https://twitter.com/anat_rosenberg)
+- Kristof Smeyers: [@kristof_smeyers](https://twitter.com/kristof_smeyers)
+- Astrid Van den Bossche: [@askebos](https://twitter.com/askebos)
 
 Or send us a message:
 
-<i> This form has temporarily been disabled while we fix an issue.</i>
-
-<form  id = "contact" value="Economic Enchantments - Message from " name="contact" method="POST" data-netlify="true" action="/thank-you">
-<fieldset disabled>
+<form id = "contact" value="Economic Enchantments - Message from " name="contact" method="POST" data-netlify="true" action="/thank-you">
   <p>
     <label>Your Name</label> <input type="text" name="name" />
   </p>
@@ -40,5 +37,4 @@ Or send us a message:
   <p>
     <button type="submit">Send</button>
   </p>
-  </fieldset>
 </form>
