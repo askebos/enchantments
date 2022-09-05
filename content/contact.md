@@ -14,7 +14,7 @@ showActions:    false
 
 Join our mailing list here: [ECONOMIC-ENCHANTMENTS@JISCMAIL.AC.UK](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=ECONOMIC-ENCHANTMENTS&A=1)
 
-Do you have questions, suggestions, or would you like to send in a proposal for a work-in-progress presentation?
+Do you have questions or suggestions?
 
 You will find us on Twitter:
 - Anat Rosenberg: [@anat_rosenberg](https://twitter.com/anat_rosenberg)

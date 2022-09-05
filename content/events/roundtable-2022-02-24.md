@@ -7,7 +7,7 @@ category: events
 kind: roundtable
 doc: memo
 link: ../events/roundtable-2022-02-24
-summary: "A roundtable with Professor Owen Davies and Professor Jason Ānanda Josephson Storm"
+summary: "A roundtable with Professor Owen Davies and Professor Jason Ānanda Josephson Storm."
 comments: roundtable-1
 ---
 
