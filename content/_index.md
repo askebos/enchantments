@@ -8,7 +8,7 @@ We’re a network of scholars who seek to develop enchantment as an organizing t
 
 {{% alert %}}
 
-Would you like to present some **work-in-progress** at our virtual meetings? [Contact us](/events/cfp_work_in_progress) with a title, an abstract of 200-400 words, and a brief bio. Presentations are 10-15 minutes, followed by a discussion. Please include your time zone and preferred dates (Thursdays or Fridays) in your message.
+Would you like to present some **work-in-progress** at our virtual meetings? [Contact us](/events/cfp_work_in_progress) by **October 15** with a title, an abstract of 200-400 words, and a brief bio. Presentations are 10-15 minutes, followed by a discussion. Please include your time zone and preferred dates (Thursdays or Fridays) in your message.
 
 {{% /alert %}}
 
