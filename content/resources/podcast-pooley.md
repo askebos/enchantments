@@ -1,7 +1,7 @@
 ---
 title: "A conversation with Will Pooley"
-date: 2022-06-28
-publishDate: 2022-09-30
+date: 2022-09-20
+publishDate: 2022-09-20
 kind: podcast # for the heading
 layout: podcast # for the podcast page layout
 doc: podcasts # for listing on resources page
@@ -17,9 +17,7 @@ author: "Kristof Smeyers"
 
 ##### 00:00:00 Kristof
 
-Welcome, everyone, to an episode of the summer podcast of the Research Network Enchantment in the History of Capitalism. We're a very interdisciplinary group of scholars that get together to explore the different ways enchantment can be a methodological tool, conceptual structure, or a driving force one way or other in histories of capitalism and in the past month. With ‘we’ I mostly mean Astrid Van den Bossche and Anat Rosenberg.
-
-We've organized several roundtables in which we discussed the usefulness of enchantment in its many different definitions, it's a term that's often used in very evanescent ways, maybe very vague ways. And these podcasts are meant to build on that momentum, which is why I'm very excited to welcome Will Pooley today.
+Welcome, everyone, to an episode of the summer podcast of the Research Network Enchantment in the History of Capitalism. We're a very interdisciplinary group of scholars that get together to explore the different ways enchantment can be a methodological tool, conceptual structure, or a driving force one way or other in histories of capitalism and in the past month. With ‘we’ I mostly mean Astrid Van den Bossche and Anat Rosenberg. We've organized several roundtables in which we discussed the usefulness of enchantment in its many different definitions, it's a term that's often used in very evanescent ways, maybe very vague ways. And these podcasts are meant to build on that momentum, which is why I'm very excited to welcome Will Pooley today.
 
 Will is a Senior Lecturer in modern history at the University of Bristol, he tackles enchantment head on, I would say by studying primarily witchcraft, magic and the occult.
 
