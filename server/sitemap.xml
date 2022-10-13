@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://economic-enchantments.net/resources/interview-pooley/</loc>
-    <lastmod>2022-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://economic-enchantments.net/events/roundtable-2022-05-05/</loc>
-    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
+    <loc>https://economic-enchantments.net/events/cfp_work_in_progress/</loc>
+    <lastmod>3000-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://economic-enchantments.net/events/</loc>
+    <lastmod>3000-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economic-enchantments.net/events/cfp_conference_2023/</loc>
+    <lastmod>2023-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economic-enchantments.net/resources/podcast-pooley/</loc>
+    <lastmod>2022-09-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economic-enchantments.net/resources/podcast-saler/</loc>
+    <lastmod>2022-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://economic-enchantments.net/events/roundtable-2022-05-05/</loc>
     <lastmod>2022-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://economic-enchantments.net/events/roundtable-2022-03-25/</loc>
@@ -17,11 +26,20 @@
     <loc>https://economic-enchantments.net/contact/</loc>
     <lastmod>2022-03-17T08:32:28+00:00</lastmod>
   </url><url>
-    <loc>https://economic-enchantments.net/resources/</loc>
-    <lastmod>2022-03-17T08:23:44+00:00</lastmod>
+    <loc>https://economic-enchantments.net/thank-you/</loc>
+    <lastmod>2022-03-17T08:32:28+00:00</lastmod>
   </url><url>
     <loc>https://economic-enchantments.net/events/</loc>
     <lastmod>2022-03-17T08:23:44+00:00</lastmod>
+  </url><url>
+    <loc>https://economic-enchantments.net/resources/</loc>
+    <lastmod>2022-03-17T08:23:44+00:00</lastmod>
+  </url><url>
+    <loc>https://economic-enchantments.net/events/index-roundtables_archived/</loc>
+    <lastmod>2022-03-17T08:23:44+00:00</lastmod>
+  </url><url>
+    <loc>https://economic-enchantments.net/about/</loc>
+    <lastmod>2022-03-17T08:21:58+00:00</lastmod>
   </url><url>
     <loc>https://economic-enchantments.net/</loc>
     <lastmod>2022-03-17T08:21:58+00:00</lastmod>

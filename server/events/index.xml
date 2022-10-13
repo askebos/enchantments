@@ -6,7 +6,25 @@
     <description>Recent content in Events on Enchantment in the History of Capitalism</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://economic-enchantments.net/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 3000 00:00:00 +0000</lastBuildDate><atom:link href="https://economic-enchantments.net/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CFP: Works-in-progress meetings</title>
+      <link>https://economic-enchantments.net/events/cfp_work_in_progress/</link>
+      <pubDate>Wed, 01 Jan 3000 00:00:00 +0000</pubDate>
+      
+      <guid>https://economic-enchantments.net/events/cfp_work_in_progress/</guid>
+      <description>Submit an abstract to participate in our virtual work-in-progress meetings in October 2022 - April 2023</description>
+    </item>
+    
+    <item>
+      <title>Save the date: Conference on 30 June / 1 July 2023</title>
+      <link>https://economic-enchantments.net/events/cfp_conference_2023/</link>
+      <pubDate>Fri, 30 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://economic-enchantments.net/events/cfp_conference_2023/</guid>
+      <description>We are planning a conference for 30 June / 1 July 2023. Details TBC.</description>
+    </item>
+    
     <item>
       <title>Enchantment in contemporary scholarship on economic life</title>
       <link>https://economic-enchantments.net/events/roundtable-2022-05-05/</link>
@@ -26,12 +44,22 @@
     </item>
     
     <item>
+      <title>Roundtables</title>
+      <link>https://economic-enchantments.net/events/index-roundtables_archived/</link>
+      <pubDate>Thu, 17 Mar 2022 08:23:44 +0000</pubDate>
+      
+      <guid>https://economic-enchantments.net/events/index-roundtables_archived/</guid>
+      <description>At the moment, our activities are focused on running a series of roundtables to converge discussion around a set of leading texts that represent existing conceptual and historical scholarship on enchantment in modernity, from the fields of theology, anthropology, the history of science, literature and art, philosophy, marketing and business.
+The goal is to map existing knowledge as well as draw out theoretical points of contention through joint readings and discussion of a set of questions relevant for the history of capitalism.</description>
+    </item>
+    
+    <item>
       <title>Enchantment in theology and scholarship on magic</title>
       <link>https://economic-enchantments.net/events/roundtable-2022-02-24/</link>
       <pubDate>Thu, 24 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://economic-enchantments.net/events/roundtable-2022-02-24/</guid>
-      <description>A roundtable with Professor Owen Davies and Professor Jason Ānanda Josephson Storm</description>
+      <description>A roundtable with Professor Owen Davies and Professor Jason Ānanda Josephson Storm.</description>
     </item>
     
   </channel>
