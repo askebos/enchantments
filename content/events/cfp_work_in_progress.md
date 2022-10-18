@@ -9,7 +9,7 @@ summary: "Submit an abstract to participate in our virtual work-in-progress meet
 link: ../events/cfp_work_in_progress
 ---
 
-Would you like to present some work-in-progress at our virtual meetings? Contact us  by **October 15** with a title and abstract of 200-400 words. Presentations are 10-15 minutes, followed by a discussion. Please also include your time zone and preferred dates (we typically hold our meetings on Thursdays or Fridays) in your message.
+Would you like to present some work-in-progress at our virtual meetings? Contact us with a title and abstract of 200-400 words. Presentations are 10-15 minutes, followed by a discussion. Please also include your time zone and preferred dates (we typically hold our meetings on Thursdays or Fridays) in your message.
 
 <form  id = "contact" value="Work-in-progress - Submission from " name="work-in-progress" method="POST" data-netlify="true" action="/thank-you">
   <p>
