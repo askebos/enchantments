@@ -8,7 +8,7 @@ We’re a network of scholars who seek to develop enchantment as an organizing t
 
 {{% alert %}}
 
-Would you like to present some **work-in-progress** at our virtual meetings? [Contact us](/events/cfp_work_in_progress) with a title, an abstract of 200-400 words, and a brief bio. Presentations are 10-15 minutes, followed by a discussion. Please include your time zone and preferred dates (Thursdays or Fridays) in your message.
+Join us for our 2022-2023 virtual work-in-progress meetings! Abstracts will be published on this website shortly. In the meantime, check out the programme and book your place here: [programme and event registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-work-in-progress-2022-2023-tickets-450828278517)
 
 {{% /alert %}}
 
