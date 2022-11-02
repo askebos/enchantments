@@ -8,7 +8,7 @@ We’re a network of scholars who seek to develop enchantment as an organizing t
 
 {{% alert %}}
 
-Join us for our 2022-2023 virtual work-in-progress meetings! Abstracts will be published on this website shortly. In the meantime, check out the programme and book your place here: [programme and event registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-work-in-progress-2022-2023-tickets-450828278517)
+**Join us for our 2022-2023 virtual work-in-progress meetings!** Abstracts will be published on this website shortly. In the meantime, check out the programme and book your place here: [programme and event registration](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-work-in-progress-2022-2023-tickets-450828278517)
 
 {{% /alert %}}
 
