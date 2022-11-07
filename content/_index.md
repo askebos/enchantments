@@ -6,11 +6,10 @@ taxonomies: home
 
 We’re a network of scholars who seek to develop enchantment as an organizing theme in historical studies of capitalism. We hope to provide a platform for those interested in the historical role of enchantment as a tool, structure, or foundation for the organisation and the development of modern markets, economic institutions, and economic relationships.
 
-{{% alert %}}
+{{% pointing %}}
+Join us for our virtual work-in-progress meetings, running from November 2022 to May 2023. Full programme and abstracts are [available here](events/wip_22-23/), and registration is on [Eventbrite](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-work-in-progress-2022-2023-tickets-450828278517).
+{{% /pointing %}}
 
-Would you like to present some **work-in-progress** at our virtual meetings? [Contact us](/events/cfp_work_in_progress) with a title, an abstract of 200-400 words, and a brief bio. Presentations are 10-15 minutes, followed by a discussion. Please include your time zone and preferred dates (Thursdays or Fridays) in your message.
-
-{{% /alert %}}
 
 {{% pointing %}}
 

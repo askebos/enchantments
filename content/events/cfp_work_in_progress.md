@@ -1,7 +1,7 @@
 ---
 title: "CFP: Works-in-progress meetings"
 ongoing: "yes"
-date: 3000-01-01
+date:
 publishDate: 2022-09-05
 category: events
 kind: Call for papers
