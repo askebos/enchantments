@@ -24,7 +24,7 @@ The conference will open with a reception and keynote address on June 29, and co
 
 We invite proposals for papers on all aspects of enchanted capitalist histories by established as well as early career researchers. Please submit a short abstract (c.350 words) and bio (c.100 words) though the form below by **28 February 2023**. Limited support for travel may be allocated to early career researchers, please indicate if required with your submission.
 
-Please note that accepted presenters will be expected to circulate short versions (3-8 pages) of their papers three weeks advance.
+Please note that accepted presenters will be expected to circulate short versions (3-8 pages) of their papers three weeks in advance.
 
 
 <form id = "contact" value="Conference June 2023 - Submission from " name="conference_2023" method="POST" data-netlify="true" action="/thank-you">
