@@ -48,7 +48,7 @@ Please note that accepted presenters will be expected to circulate short version
   </p>
 
   <p>
-    <label>Any further details that you would like to share? (E.g., if are an Early Career Researcher who would like to be considered for financial support)</label> <textarea name="message"></textarea>
+    <label>Any further details that you would like to share? (E.g., if you are an Early Career Researcher who would like to be considered for financial support)</label> <textarea name="message"></textarea>
   </p>
 
   <p>
