@@ -4,7 +4,7 @@ date: 2023-06-29
 publishDate: 2022-09-05
 category: events
 kind: Call for papers
-summary: "We are planning a conference for 30 June / 1 July 2023. Details TBC."
+summary: "Join us for our conference in at King's College London, 29 - 30 June 2023."
 link: ../events/cfp_conference_2023
 ---
 
