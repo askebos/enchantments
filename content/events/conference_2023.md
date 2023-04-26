@@ -9,7 +9,7 @@ link: ../events/conference_2023
 ---
 
 #### King’s College London, 29 June (evening) and 30 June 2023
-##### Register [**here**](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
+##### [Register **here**](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
 ##### [Click here for the **programme**](#programme)
 ##### [Click here for the **abstracts**](#abstracts)
 
@@ -121,5 +121,7 @@ In re-thinking some of the curatorial strategies of the 2014-16 exhibition The I
 Lastly, Counterspells considers representational practices hitched to systems of exchange. Marc Shell has written how this leads to money becoming understood as a manifestation of authority, and as ‘disturbingly close to Christ as an architectonic principle’. What is enchantment’s role here, and what is its relationship to desire? Using images from a research trip documenting Benjamin’s arcades of Paris, this work-in-progress will propose some possible things which we might find more valuable than money.
 
 {{% pointing %}}
+
 Wanting to join us on the day? Register [here](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)!
+
 {{% /pointing %}}
