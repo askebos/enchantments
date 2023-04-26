@@ -9,7 +9,9 @@ link: ../events/conference_2023
 ---
 
 #### King’s College London, 29 June (evening) and 30 June 2023
-##### Register on [Eventbrite](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
+##### Register [**here**](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
+##### [Click here for the **programme**](#programme)
+##### [Click here for the **abstracts**](#abstracts)
 
 How should we understand the role of enchantment in the history of capitalism?
 
@@ -23,8 +25,8 @@ The conference will open with a reception and keynote address on June 29, and co
 
 Please note that we will circulate short versions (3-8 pages) of the presenters' papers three weeks in advance.
 
+<a name="programme"></a>
 ### Programme
-Registration is free but required:
 
 ##### 29 June: King’s College, Strand Campus
 
@@ -35,7 +37,7 @@ Registration is free but required:
 ###### Reception: 18h
 <br>
 
-##### 30 June: King’s College, Strand Campus, room
+##### 30 June: King’s College, Strand Campus
 
 ###### 9h15-9h30
 Welcome
@@ -66,8 +68,9 @@ Welcome
 - Isabella Streffen (De Montfort University): ‘Counterspells’ (performance lecture)
 
 ###### Concluding remarks: 16h45-17h15
+<br>
 
-
+<a name="abstracts"></a>
 ### Abstracts
 In order of presentation:
 
@@ -116,3 +119,7 @@ Counterspells (2023) is an experiment – perhaps even a promise to be realised 
 Counterspells uses practice research methodologies to navigate the uncomfortable territories of new technics as they generate new intimacies. It is playful and propositional, rooted in artistic practice and the tradition of the performance lecture. It seeks to speculate and elucidate, rather than finalize the deal.
 In re-thinking some of the curatorial strategies of the 2014-16 exhibition The Image of Finance 1700 to the present¬ by co-opting artistic strategies of dematerialisation and rematerialisation, Counterspells considers how we now navigate our personal relationships through equivalent algorithmic tools in social contexts. It wonders: how do we steer courses through computational order? How do we find our people? How do we build our webs of emotion on barely-functional platforms owned by unreliable billionaires?
 Lastly, Counterspells considers representational practices hitched to systems of exchange. Marc Shell has written how this leads to money becoming understood as a manifestation of authority, and as ‘disturbingly close to Christ as an architectonic principle’. What is enchantment’s role here, and what is its relationship to desire? Using images from a research trip documenting Benjamin’s arcades of Paris, this work-in-progress will propose some possible things which we might find more valuable than money.
+
+{{% pointing %}}
+Wanting to join us on the day? Register [here](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)!
+{{% /pointing %}}

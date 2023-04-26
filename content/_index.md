@@ -8,7 +8,7 @@ We’re a network of scholars who seek to develop enchantment as an organizing t
 
 {{% alert %}}
 
-Join us for our virtual work-in-progress meetings, running from November 2022 to May 2023. Full programme and abstracts are [available here](events/wip_22-23/), and registration is on [Eventbrite](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-work-in-progress-2022-2023-tickets-450828278517).
+Join us at our conference at King's College London, 29-30 June. Full programme and abstracts are [available here](events/conference/), and registration is on [Eventbrite](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
 
 {{% /alert %}}
 
