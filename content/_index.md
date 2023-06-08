@@ -8,7 +8,7 @@ We’re a network of scholars who seek to develop enchantment as an organizing t
 
 {{% alert %}}
 
-Join us at our conference at King's College London, 29-30 June. Full programme and abstracts are [available here](events/conference/), and registration is on [Eventbrite](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
+Join us at our conference at King's College London, 29-30 June. Full programme and abstracts are [available here](events/conference_2023/), and registration is on [Eventbrite](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
 
 {{% /alert %}}
 
