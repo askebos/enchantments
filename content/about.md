@@ -23,7 +23,7 @@ During the summer and fall of 2022, we also recorded conversations with scholars
 
 We are also holding **work-in-progress** meetings with 10-15 minute presentations, followed by a discussion. Meetings are held on selected Thursdays or Fridays. Check our [events](/events) page for upcoming meetings, or, if you would like to participate, [get in touch](/events/cfp_work_in_progress) with a title, an abstract, a brief bio, your time zone, and preferred dates.
 
-Finally, we are planning a **conference** that will be held on 30 June and/or 1 July. We are currently exploring funding options that will determine the location. A Call for Papers with a deadline in February 2023 will follow. Save the date!
+Finally, we held a **conference** on 29-30 June at King's College London. [Click here for the agenda and abstracts.](events/conference_2023)
 
 ## People
 

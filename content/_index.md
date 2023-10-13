@@ -8,13 +8,13 @@ We’re a network of scholars who seek to develop enchantment as an organizing t
 
 {{% alert %}}
 
-Join us at our conference at King's College London, 29-30 June. Full programme and abstracts are [available here](events/conference_2023/), and registration is on [Eventbrite](https://www.eventbrite.co.uk/e/enchantment-in-the-history-of-capitalism-conference-tickets-624201372107)
+Would you like to present your work-in-progress to the network in 2024? [Submit your abstract here](events/cfp_work_in_progress/).
 
 {{% /alert %}}
 
 {{% pointing %}}
 
-This summer and fall, we have been talking to scholars of enchantment about their work; check out our new [podcast](resources) section! Our roundtable discussions are also still available as [memos](resources), and consider contributing to our open [Zotero folder](https://www.zotero.org/groups/4634111/economic_enchantments).
+We have been talking to scholars of enchantment about their work; check out our new [podcast](resources) section! Our roundtable discussions are also still available as [memos](resources), and consider contributing to our open [Zotero folder](https://www.zotero.org/groups/4634111/economic_enchantments).
 
 {{% /pointing %}}
 
