@@ -4,7 +4,6 @@ ongoing: "yes"
 date: 2999-01-01
 publishDate: 2022-09-05
 category: events
-kind: Call for papers
 summary: "Submit an abstract to participate in our virtual work-in-progress meetings in March & April 2024"
 link: ../events/cfp_work_in_progress
 ---

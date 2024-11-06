@@ -2,7 +2,6 @@
 title: "A conversation with Michael Saler"
 date: 2022-08-18
 publishDate: 2022-08-30
-kind: podcast # for the heading
 layout: podcast # for the podcast page layout
 doc: podcasts # for listing on resources page
 comments: podcast-saler

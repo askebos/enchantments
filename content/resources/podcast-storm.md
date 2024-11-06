@@ -2,7 +2,6 @@
 title: "A conversation with Jason Josephson Storm"
 date: 2022-09-20
 publishDate: 2022-10-13
-kind: podcast # for the heading
 layout: podcast # for the podcast page layout
 doc: podcasts # for listing on resources page
 comments: podcast-storm

@@ -4,7 +4,6 @@ date: 2022-03-25
 time: "15:00 - 17:00 GMT"
 publishDate: 2022-03-18
 category: events
-kind: roundtable
 doc: memo
 link: ../events/roundtable-2022-03-25
 summary: "A roundtable with Professor David Morgan and Professor Carrie Tirado Bramen."

@@ -2,7 +2,6 @@
 title: "A conversation with Anat Rosenberg"
 date: 2022-10-06
 publishDate: 2022-10-24
-kind: podcast # for the heading
 layout: podcast # for the podcast page layout
 doc: podcasts # for listing on resources page
 comments: podcast-rosenberg

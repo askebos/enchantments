@@ -4,7 +4,6 @@ date: 2022-05-05
 time: "16:30 - 19:00 GMT"
 publishDate: 2022-05-31
 category: events
-kind: roundtable
 doc: memo
 link: ../events/roundtable-2022-05-05
 summary: "A roundtable with Professor Jean Comaroff, Professor Jens Beckert, and Professor Robert Kozinets."

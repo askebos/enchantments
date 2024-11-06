@@ -3,7 +3,6 @@ title: "Conference: Enchantment in the History of Capitalism"
 date: 2023-06-29
 publishDate: 2023-04-26
 category: events
-kind: conference
 doc: memo
 summary: "Conference proceedings at King's College London, 29 - 30 June 2023."
 link: ../events/conference_2023

@@ -7,7 +7,7 @@ showActions:    false
 ---
 
 ## Network coordinators
-**[Anat Rosenberg](https://www.runi.ac.il/en/faculty/arosenberg/)** is a senior lecturer at the Harry Radzyner Law School, Reichman University, Israel. Her work concerns the cultural legal history of capitalism, liberalism and consumption in Britain, and methodologies of law and the humanities. She is author of *Liberalizing Contracts: Nineteenth Century Promises Through Literature, Law and History* (2018), and *The Rise of Mass Advertising: Law, Enchantment and the Cultural Boundaries of British Modernity* (forthcoming).
+**[Anat Rosenberg](https://ials.sas.ac.uk/people/professor-anat-rosenberg)** is Professor of Law and the Humanities at the Institute of Advanced Legal Studies, where she leads the Law and Humanities Hub (LHub). She is also a Fellow of the Royal Historical Society. Anat studies the history of modern capitalism, liberalism, and media, drawing on multidisciplinary methods in Law and the Humanities, including law and visuality, law and materiality, and law and literature.  She is author of *Liberalizing Contracts: Nineteenth Century Promises Through Literature, Law and History* (2018), and *The Rise of Mass Advertising: Law, Enchantment and the Cultural Boundaries of British Modernity* (2022, open access).
 
 **[Kristof Smeyers](https://www.uantwerpen.be/en/staff/kristof-smeyers_16210/)** is a Postdoctoral Fellow at the Ruusbroec Institute, University of Antwerp. His research interests are magic, the supernatural and the occult, and their connections to the histories of religion, science and folklore, as well as their historiography and their archive history.
 
