@@ -8,7 +8,7 @@ We’re a network of scholars who seek to develop enchantment as an organizing t
 
 {{% alert %}}
 
-Would you like to present your work-in-progress to the network in 2024? [Submit your abstract here](events/cfp_work_in_progress/).
+Would you like to present your work-in-progress to the network? [Submit your abstract here](events/cfp_work_in_progress/).
 
 {{% /alert %}}
 
