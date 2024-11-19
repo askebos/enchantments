@@ -6,3 +6,8 @@
 [context.production.environment]
   HUGO_VERSION = "0.139.0"
   HUGO_ENV = "production"
+
+[module]
+  [[module.imports]]
+    path = 'github.com/askebos/hyde'
+

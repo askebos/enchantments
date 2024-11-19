@@ -22,8 +22,6 @@ theme = "hyde"
   url = '/conference_2023'
   weight = 50
 
-
-
 [params]
   description = "We're a network of scholars interested in enchantment in the history of capitalism. Join us!"
   themeColor = "theme-base-0d"
