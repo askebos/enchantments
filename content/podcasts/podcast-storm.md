@@ -10,7 +10,7 @@ author: "Kristof Smeyers"
 [Jason Josephson Storm](https://religion.williams.edu/faculty/jason-josephson/) is Professor of Religion and
 Chair of Science & Technology Studies at Williams College.
 
-{{<audio src="resources/podcasts/20.9.2022_Josephson_Storm podcast.mp3" caption="">}}
+{{<audio src="20.9.2022_Josephson_Storm podcast.mp3" caption="">}}
 
 ### Transcript
 ##### 00:04 Kristof

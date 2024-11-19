@@ -8,7 +8,7 @@ author: "Kristof Smeyers"
 
 [Michael Saler](https://history.ucdavis.edu/people/mtsaler) is Professor of History at the University of California, Davis.
 
-{{<audio src="resources/podcasts/18.8.2022_Saler_podcast.mp3" caption="">}}
+{{<audio src="18.8.2022_Saler_podcast.mp3" caption="">}}
 
 ### Transcript
 

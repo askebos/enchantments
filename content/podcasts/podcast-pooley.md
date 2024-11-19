@@ -8,7 +8,7 @@ summary: "Kristof Smeyers interviews Will Pooley, a Senior Lecturer in Modern Hi
 
 [Will Pooley](https://research-information.bris.ac.uk/en/persons/will-pooley) is a Senior Lecturer in Modern History at the University of Bristol.
 
-{{<audio src="resources/podcasts/28.6.2022_Pooley_podcast.mp3" caption="">}}
+{{<audio src="28.6.2022_Pooley_podcast.mp3" caption="">}}
 
 ### Transcript
 

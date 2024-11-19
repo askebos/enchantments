@@ -8,7 +8,7 @@ author: "Kristof Smeyers"
 
 [Anat Rosenberg](https://www.runi.ac.il/en/faculty/arosenberg/) is a Senior Lecturer at the Harry Radzyner Law School, Reichman University.
 
-{{<audio src="resources/podcasts/6.10.2022_Rosenberg_podcast.mp3" caption="">}}
+{{<audio src="6.10.2022_Rosenberg_podcast.mp3" caption="">}}
 
 ### Transcript
 
