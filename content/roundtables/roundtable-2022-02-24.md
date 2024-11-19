@@ -21,8 +21,6 @@ summary: "A roundtable with Professor Owen Davies and Professor Jason Ānanda Jo
 ### Memo
 {{% author %}} By [Kristof Smeyers](https://www.uantwerpen.be/en/staff/kristof-smeyers_16210/) {{% /author %}}
 
-<div class = "readable">
-
 'Is capitalism enchanted?' is a question that, perhaps, no longer bears
 asking. Since the economic crisis that begun in 2007-2008, opinion
 pieces about the irrationality of the markets or the fortune and
@@ -112,7 +110,7 @@ products such as talismans. Makers of
 as Davies for instance shows, profited from advances in print and
 publishing industries.
 
-{{< figure src ="roundtable1-figure1.jpg" 
+{{< figure src ="../../roundtables/memo_images/roundtable1-figure1.jpg" 
 caption = "A facsimile of the Necronomicon for sale on eBay for €175.00" >}}
 
 The 'magical marketplace' therefore also always intersects with other
@@ -163,5 +161,4 @@ historical practices and ideas.
     'Foreword', in Brian Moeran and Timothy de Waal Malefyt, eds.,
     *Magical capitalism: enchantment, spells, and occult practices in
     contemporary economies* (London: Palgrave Macmillan, 2018), v.
-
-</div>
+s

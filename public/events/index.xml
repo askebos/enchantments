@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Enchantment in the History of Capitalism</title>
-    <link>/events/</link>
+    <link>//localhost:1313/events/</link>
     <description>Recent content in Events on Enchantment in the History of Capitalism</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Work-in-Progress Meeting - 11 April 2024</title>
-      <link>/events/wip_23-24/</link>
+      <link>//localhost:1313/events/wip_23-24/</link>
       <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>/events/wip_23-24/</guid>
+      <guid>//localhost:1313/events/wip_23-24/</guid>
       <description>Programme &amp;amp; abstracts for our virtual work-in-progress meeting in April 2024.</description>
     </item>
     <item>
       <title>Work-in-Progress Programme 2022 - 2023</title>
-      <link>/events/wip_22-23/</link>
+      <link>//localhost:1313/events/wip_22-23/</link>
       <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>/events/wip_22-23/</guid>
+      <guid>//localhost:1313/events/wip_22-23/</guid>
       <description>Programme &amp;amp; abstracts for our virtual work-in-progress meetings from November 2022 to May 2023.</description>
     </item>
   </channel>

@@ -29,8 +29,6 @@ Optional: Jenkins, R. (2000) “Disenchantment, enchantment and re-enchantment: 
 ### Memo
 {{% author %}} By [Kristof Smeyers](https://www.uantwerpen.be/en/staff/kristof-smeyers_16210/) {{% /author %}}
 
-<div class = "readable">
-
 The spectre of Max Weber continues to haunt our research network. In
 *The Romantic ethic and the spirit of modern consumerism* (1987),
 sociologist Colin Campbell reacted against mainstream readings of Weber
@@ -50,7 +48,7 @@ culture. Rather than approaching this culture as superficial and devoid
 of meaning, they posited that the 'desire to consume' brims with
 enchantment.
 
-{{< figure src ="memos/roundtable3-figure1.png" caption = "The entrance to Enchanted Island, Phoenix, Arizona. The amusement park claims to be \'filled with charm and magic.\'" >}}
+{{< figure src ="../../roundtables/memo_images/roundtable3-figure1.png" caption = "The entrance to Enchanted Island, Phoenix, Arizona. The amusement park claims to be \'filled with charm and magic.\'" >}}
 
 
 *(1) What constitutes enchantment?*
@@ -205,5 +203,3 @@ in which things act, speak, rise, fall, fly, evolve'.[^3]
 [^3]: Thomas Richards, *The commodity culture of Victorian England:
     advertising and spectacle, 1851-1914* (Stanford, CA: Stanford
     University Press, 1990), p. 11.
-
-</div>

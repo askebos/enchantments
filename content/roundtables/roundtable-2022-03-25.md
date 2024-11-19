@@ -22,10 +22,8 @@ summary: "A roundtable with Professor David Morgan and Professor Carrie Tirado B
 ### Memo
 {{% author %}} By [Kristof Smeyers](https://www.uantwerpen.be/en/staff/kristof-smeyers_16210/) {{% /author %}}
 
-{{< figure src ="../images/memos/roundtable2-figure1.png"
+{{< figure src ="../../roundtables/memo_images/roundtable2-figure1.png"
 caption = "Zodiac sign in Julius Firmicus Maternus, *Astronomicon* (Basel, 1533), p. 16, with marginalia by John Dee. <br>Source: [*The Archaeology of Reading*](https://archaeologyofreading.org/viewer/#aor/UCLOgden/016v/image)" >}}
-
-<div class = "readable">
 
 Bruno Latour writes of catastrophes as opportunities for an enchanted
 relationship. In that light, the stock market crash of 2008 and the
@@ -160,7 +158,7 @@ Going forward, it therefore bears thinking about how and why certain
 forms of enchantment were sometimes included in the economic 'sphere',
 and sometimes excluded from it.
 
-{{< figure src ="memos/roundtable2-figure2.png" caption = "From: Bull & Moon ([www.bullandmoon.com](http://www.bullandmoon.com)), a prank app by MSCHF that claimed to marry astrology to stock market advice." >}}
+{{< figure src ="../../roundtables/memo_images/roundtable2-figure2.png" caption = "From: Bull & Moon ([www.bullandmoon.com](http://www.bullandmoon.com)), a prank app by MSCHF that claimed to marry astrology to stock market advice." >}}
 
 
 [^1]: Nicholas Campion, 'Introduction', *A history of western
@@ -182,5 +180,3 @@ and sometimes excluded from it.
 
 [^7]: Theodor Adorno, *The stars down to earth* (London: Routledge,
     2001), p. 77.
-
-</div>
