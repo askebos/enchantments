@@ -1,0 +1,34 @@
+baseURL = 'https://https://economic-enchantments.net/'
+languageCode = 'en-uk'
+title = 'Enchantment in the History of Capitalism'
+
+theme = "hyde"
+
+[menu]
+[[menu.main]]
+  name = 'Roundtables'
+  url = '/roundtables'
+  weight = 20
+[[menu.main]]
+  name = 'Podcasts'
+  url = '/podcasts'
+  weight = 30
+[[menu.main]]
+  name = 'Events'
+  url = '/events'
+  weight = 40
+[[menu.main]]
+  name = 'Conference'
+  url = '/conference_2023'
+  weight = 50
+
+
+
+[params]
+  description = "We're a network of scholars interested in enchantment in the history of capitalism. Join us!"
+  themeColor = "theme-base-0d"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

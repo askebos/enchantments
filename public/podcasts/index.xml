@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Podcasts on Enchantment in the History of Capitalism</title>
+    <link>http://localhost:1313/econchants2/podcasts/</link>
+    <description>Recent content in Podcasts on Enchantment in the History of Capitalism</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Thu, 13 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/econchants2/podcasts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A conversation with Jason Josephson Storm</title>
+      <link>http://localhost:1313/econchants2/podcasts/podcast-storm/</link>
+      <pubDate>Thu, 13 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/econchants2/podcasts/podcast-storm/</guid>
+      <description>Kristof Smeyers interviews Jason Josephson Storm, Professor of Religion and Chair of Science &amp;amp; Technology Studies at Williams College.</description>
+    </item>
+    <item>
+      <title>A conversation with Anat Rosenberg</title>
+      <link>http://localhost:1313/econchants2/podcasts/podcast-rosenberg/</link>
+      <pubDate>Thu, 06 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/econchants2/podcasts/podcast-rosenberg/</guid>
+      <description>Kristof Smeyers interviews Anat Rosenberg, Senior Lecturer at the Harry Radzyner Law School, Reichman University.</description>
+    </item>
+    <item>
+      <title>A conversation with Will Pooley</title>
+      <link>http://localhost:1313/econchants2/podcasts/podcast-pooley/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/econchants2/podcasts/podcast-pooley/</guid>
+      <description>Kristof Smeyers interviews Will Pooley, a Senior Lecturer in Modern History at the University of Bristol.</description>
+    </item>
+    <item>
+      <title>A conversation with Michael Saler</title>
+      <link>http://localhost:1313/econchants2/podcasts/podcast-saler/</link>
+      <pubDate>Thu, 18 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/econchants2/podcasts/podcast-saler/</guid>
+      <description>Kristof Smeyers interviews Michael Saler, Professor of History at the University of California, Davis.</description>
+    </item>
+  </channel>
+</rss>
