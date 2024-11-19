@@ -2,6 +2,10 @@ baseURL = 'https://https://economic-enchantments.net/'
 languageCode = 'en-uk'
 title = 'Enchantment in the History of Capitalism'
 
+[module]
+  [[module.imports]]
+    path = 'github.com/askebos/hyde'
+  
 theme = "hyde"
 
 [menu]
